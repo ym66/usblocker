@@ -1,0 +1,13 @@
+DCU
+EXE
+NEW
+OLD
+TMP
+DOC
+__history
+*.local
+*.mes
+*.res
+*.identcache
+*.*~
+*.dll
